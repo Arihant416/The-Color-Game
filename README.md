@@ -1,1 +1,1 @@
-# The-Color-Game
+# The Color Game
